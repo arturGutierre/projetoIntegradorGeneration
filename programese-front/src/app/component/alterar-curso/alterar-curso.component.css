@@ -1,0 +1,22 @@
+.center-block { /*Formululário*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-title { /*Título 'Alterar Curso'*/
+    color: #4097aa;
+    font-weight: bold;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.fas { /*Ícone nome, url e preço*/
+    color: #4097aa;
+}
+
+
+
+.far { /*Ícones descrição e duração */
+    color: #4097aa;
+}

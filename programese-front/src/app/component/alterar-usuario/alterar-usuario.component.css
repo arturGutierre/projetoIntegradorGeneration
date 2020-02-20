@@ -1,0 +1,24 @@
+.center-block { /*Formulário*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-title { /*Título 'Alterar Usuário'*/
+  color: #4097aa;
+  font-weight: bold;
+  font-size: 2.5em;
+  text-align: center;
+  align-content: center;
+  text-align: center;
+}
+
+.fas { /*Ícones nome, telefone, senha */
+  color: #4097aa;
+}
+
+
+
+.far { /*Ícone e-mail */
+  color: #4097aa;
+}
